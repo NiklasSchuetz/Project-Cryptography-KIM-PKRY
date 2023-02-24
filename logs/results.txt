@@ -1,0 +1,148 @@
+1: combinations: 0.00001
+1: shanks with split: 0.00001
+1: gray codes: 0.00003
+1: comb with set/unset arr: 0.00005
+
+2: combinations: 0.00001
+2: shanks with split: 0.00001
+2: gray codes: 0.00004
+2: comb with set/unset arr: 0.00007
+
+3: combinations: 0.00001
+3: shanks with split: 0.00002
+3: gray codes: 0.00005
+3: comb with set/unset arr: 0.00010
+
+4: combinations: 0.00001
+4: shanks with split: 0.00002
+4: gray codes: 0.00007
+4: comb with set/unset arr: 0.00013
+
+5: combinations: 0.00001
+5: shanks with split: 0.00002
+5: gray codes: 0.00007
+5: comb with set/unset arr: 0.00012
+
+6: combinations: 0.00004
+6: shanks with split: 0.00004
+6: gray codes: 0.00014
+6: comb with set/unset arr: 0.00021
+
+7: combinations: 0.00004
+7: shanks with split: 0.00005
+7: gray codes: 0.00017
+7: comb with set/unset arr: 0.00021
+
+8: combinations: 0.00005
+8: shanks with split: 0.00007
+8: gray codes: 0.00022
+8: comb with set/unset arr: 0.00024
+
+9: combinations: 0.00012
+9: shanks with split: 0.00008
+9: gray codes: 0.00038
+9: comb with set/unset arr: 0.00031
+
+10: combinations: 0.00018
+10: shanks with split: 0.00016
+10: gray codes: 0.00056
+10: comb with set/unset arr: 0.00040
+
+11: combinations: 0.00049
+11: shanks with split: 0.00028
+11: gray codes: 0.00095
+11: comb with set/unset arr: 0.00059
+
+12: combinations: 0.00107
+12: shanks with split: 0.00075
+12: gray codes: 0.00230
+12: comb with set/unset arr: 0.00127
+
+13: combinations: 0.00287
+13: shanks with split: 0.00059
+13: gray codes: 0.00705
+13: comb with set/unset arr: 0.00115
+
+14: combinations: 0.00598
+14: shanks with split: 0.00180
+14: gray codes: 0.00843
+14: comb with set/unset arr: 0.00232
+
+15: combinations: 0.00535
+15: shanks with split: 0.00174
+15: gray codes: 0.01691
+15: comb with set/unset arr: 0.00235
+
+16: combinations: 0.01521
+16: shanks with split: 0.00534
+16: gray codes: 0.03068
+16: comb with set/unset arr: 0.00613
+
+17: combinations: 0.01971
+17: shanks with split: 0.01173
+17: gray codes: 0.05777
+17: comb with set/unset arr: 0.01304
+
+18: combinations: 0.07329
+18: shanks with split: 0.03436
+18: gray codes: 0.14932
+18: comb with set/unset arr: 0.02812
+
+19: combinations: 0.09010
+19: shanks with split: 0.05216
+19: gray codes: 0.26284
+19: comb with set/unset arr: 0.05253
+
+20: combinations: 0.18920
+20: shanks with split: 0.02359
+20: gray codes: 0.52207
+20: comb with set/unset arr: 0.02296
+
+21: combinations: 0.74402
+21: shanks with split: 0.18877
+21: gray codes: 1.84098
+21: comb with set/unset arr: 0.16220
+
+22: combinations: 0.62937
+22: shanks with split: 0.32004
+22: gray codes: 1.57248
+22: comb with set/unset arr: 0.30197
+
+23: combinations: 2.10303
+23: shanks with split: 0.18418
+23: gray codes: 3.40992
+23: comb with set/unset arr: 0.17025
+
+24: combinations: 3.57468
+24: shanks with split: 0.76417
+24: gray codes: 8.45234
+24: comb with set/unset arr: 0.60076
+
+25: combinations: 9.22467
+25: shanks with split: 0.44792
+25: gray codes: 17.19025
+25: comb with set/unset arr: 0.40454
+
+26: combinations: 13.37635
+26: shanks with split: 4.47505
+26: gray codes: 54.47280
+26: comb with set/unset arr: 3.75182
+
+27: combinations: 45.29145
+27: shanks with split: 3.04244
+27: gray codes: 98.37120
+27: comb with set/unset arr: 2.15091
+
+28: combinations: 60.16367
+28: shanks with split: 2.20722
+28: gray codes: 173.28632
+28: comb with set/unset arr: 1.84934
+
+29: combinations: 82.64717
+29: shanks with split: 2.89300
+29: gray codes: 433.06746
+29: comb with set/unset arr: 2.20799
+
+32: shanks with split: 101.26449
+32: comb with set/unset arr: 71.43511
+
